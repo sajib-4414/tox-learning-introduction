@@ -1,0 +1,2 @@
+# PyTest for running the tests.
+pytest
