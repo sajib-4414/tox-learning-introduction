@@ -1,0 +1,16 @@
+setup.py
+mysite/__init__.py
+mysite/settings.py
+mysite/urls.py
+mysite/wsgi.py
+polls/__init__.py
+polls/admin.py
+polls/apps.py
+polls/models.py
+polls/tests.py
+polls/views.py
+polls/migrations/__init__.py
+shamsul_package_name.egg-info/PKG-INFO
+shamsul_package_name.egg-info/SOURCES.txt
+shamsul_package_name.egg-info/dependency_links.txt
+shamsul_package_name.egg-info/top_level.txt
