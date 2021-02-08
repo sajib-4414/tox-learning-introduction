@@ -5,3 +5,4 @@ list of featues is beyond this scope. This project was done as a boilerplate to 
 - tox.ini contains the tox configuration
 - requirements folder have the requirements configuration split in multiple manageable files
 - poll/tests folder contains tests which will run when tox runs
+- pylint, flake8, bleak libraries are used for code formatting
